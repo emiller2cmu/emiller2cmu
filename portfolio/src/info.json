@@ -1,0 +1,23 @@
+{ 
+    "HomePage": { 
+        "heading": "Hi, I'm Emily!",
+        "description": "I'm passionate about user-centered software.", 
+        "paragraph": "Write some paragraph about how my experience has set me up to be a great software engineer x user experience. Write some paragraph about how my experience has set me up to be a great software engineer x user experience."
+    },
+    "AboutPage": { 
+        "heading": "About me.",
+        "description": "Hi, nice to meet you!", 
+        "paragraph": "I’m Emily. I am a current master’s student at Carnegie Mellon University studying Human Computer Interaction. I completed my bachelors degree in Computer Science from the University of Pittsburgh in 2021. After graduation I worked at JPMorgan Chase & Co. as a software engineer. I’m interested in UX Engineering and Software Engineering positions post graduation in August of 2024. Here are some things I enjoy outside of school & work. "
+    },
+    "ExperiencePage": { 
+        "heading": "Experience.", 
+        "description": "My professional background!", 
+        "paragraph": "Most of my professional experience has centered around software engineering. I’ve had experience in both frontend and backend settings, but prefer a more full-stack role where you can have a little of both. I do love the frontend side of things and enjoy incorporating UX fundamentals into my work. I also enjoy research and have participated in academic research at both the undergraduate and graduate levels. "
+    }, 
+    "ProjectsPage": { 
+        "heading": "Projects!", 
+        "description": "Some cool projects I've worked on.",
+        "paragraph": "During my graduate studies at Carnegie Mellon University, I have worked on a variety of projects ranging from developing a chrome extension that pointed out privacy disclosures to envisioning an autonomous moped to a new smart loading zone initiative. My capstone project is working with a brand new startup to automate usability testing."
+    }
+
+}
